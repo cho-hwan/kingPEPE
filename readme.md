@@ -12,13 +12,13 @@
 
 | **Requirement** | **Specification**                            |
 | --------------- | -------------------------------------------- |
-| **Python**      | 3.10.x or higher (see `requirements.txt`)    |
-| **Runtime**     | Node.js (for `.js` execution, if applicable) |
-| **OS**          | Linux / macOS (tested), Windows (unverified) |
+| **Python**      | 3.12.x (Tested)    |
+| **Library**     | Selenium |
+| **OS**          | Windows (Verified) |
 
 > [!IMPORTANT]
 > 
-> `requirements.txt`에 명시된 의존성 패키지가 설치되지 않을 경우, `load.py` 실행 시 모듈 참조 에러가 발생할 수 있습니다.
+> `requirements.txt`에 명시된 의존성 패키지가 설치되지 않을 경우, `load.py` 실행 시 모듈 참조 에러가 발생합니다.
 
 ---
 
@@ -63,5 +63,6 @@ python3 load.py
     
 - `load.py`: 전체 시스템을 초기화하고 실행하는 엔트리 포인트입니다.
     
+
 
 
