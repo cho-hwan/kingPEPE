@@ -1,6 +1,7 @@
 # 🐸 kingPEPE
 
 **Transform your web experience: This extension replaces every single image on the Chrome web with PEPE. try sneakily installing it on your friend's PC or the club room computer and watch the magic happen. 😉**
+
 **크롬에 렌더링되는 모든 이미지를 KING GOD PEPE로 바꿔주는 확장 프로그램입니다. 친구 PC 혹은 동방 PC에 몰래 설치해두면 아주 재미난 경험을 하실 수 있습니다.**
 
 📖 **Note:** This repository is structured for seamless interaction between the core JavaScript manifests and Python execution environments. For detailed logic on asset management, please refer to the main/manifest.json
@@ -62,4 +63,5 @@ python3 load.py
     
 - `load.py`: 전체 시스템을 초기화하고 실행하는 엔트리 포인트입니다.
     
+
 
